@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+*.egg-info/
+.venv/
+
+# data/run1/ is a real bundled example run and is intentionally tracked.
+# Any other run directory you generate locally is yours to .gitignore if you
+# don't want it committed -- not excluded by a naming convention here, since
+# one hard-coded pattern would silently miss whatever you actually name it.

@@ -1,0 +1,722 @@
+{
+  "session_000": {
+    "session_id": "session_000",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_001": {
+    "session_id": "session_001",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_002": {
+    "session_id": "session_002",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_003": {
+    "session_id": "session_003",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_004": {
+    "session_id": "session_004",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_005": {
+    "session_id": "session_005",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_006": {
+    "session_id": "session_006",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_007": {
+    "session_id": "session_007",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_008": {
+    "session_id": "session_008",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_009": {
+    "session_id": "session_009",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_010": {
+    "session_id": "session_010",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_011": {
+    "session_id": "session_011",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_012": {
+    "session_id": "session_012",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_013": {
+    "session_id": "session_013",
+    "root_cause": "sensor_drift",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0171; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"sensor_drift\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0171; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_014": {
+    "session_id": "session_014",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_015": {
+    "session_id": "session_015",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_016": {
+    "session_id": "session_016",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_017": {
+    "session_id": "session_017",
+    "root_cause": "sensor_drift",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"sensor_drift\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_018": {
+    "session_id": "session_018",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_019": {
+    "session_id": "session_019",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_020": {
+    "session_id": "session_020",
+    "root_cause": "sensor_drift",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"sensor_drift\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_021": {
+    "session_id": "session_021",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_022": {
+    "session_id": "session_022",
+    "root_cause": "sensor_drift",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"sensor_drift\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_023": {
+    "session_id": "session_023",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_024": {
+    "session_id": "session_024",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_025": {
+    "session_id": "session_025",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_026": {
+    "session_id": "session_026",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_027": {
+    "session_id": "session_027",
+    "root_cause": "sensor_drift",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"sensor_drift\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_028": {
+    "session_id": "session_028",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_029": {
+    "session_id": "session_029",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_030": {
+    "session_id": "session_030",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_031": {
+    "session_id": "session_031",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_032": {
+    "session_id": "session_032",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_033": {
+    "session_id": "session_033",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_034": {
+    "session_id": "session_034",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_035": {
+    "session_id": "session_035",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_036": {
+    "session_id": "session_036",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_037": {
+    "session_id": "session_037",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_038": {
+    "session_id": "session_038",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_039": {
+    "session_id": "session_039",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_040": {
+    "session_id": "session_040",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_041": {
+    "session_id": "session_041",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_042": {
+    "session_id": "session_042",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_043": {
+    "session_id": "session_043",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_044": {
+    "session_id": "session_044",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_045": {
+    "session_id": "session_045",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_046": {
+    "session_id": "session_046",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_047": {
+    "session_id": "session_047",
+    "root_cause": "sensor_drift",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0171; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"sensor_drift\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0171; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_048": {
+    "session_id": "session_048",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_049": {
+    "session_id": "session_049",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_050": {
+    "session_id": "session_050",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_051": {
+    "session_id": "session_051",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_052": {
+    "session_id": "session_052",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_053": {
+    "session_id": "session_053",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_054": {
+    "session_id": "session_054",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_055": {
+    "session_id": "session_055",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_056": {
+    "session_id": "session_056",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_057": {
+    "session_id": "session_057",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_058": {
+    "session_id": "session_058",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_059": {
+    "session_id": "session_059",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_060": {
+    "session_id": "session_060",
+    "root_cause": "sensor_drift",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0171; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"sensor_drift\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0171; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_061": {
+    "session_id": "session_061",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_062": {
+    "session_id": "session_062",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_063": {
+    "session_id": "session_063",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_064": {
+    "session_id": "session_064",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_065": {
+    "session_id": "session_065",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_066": {
+    "session_id": "session_066",
+    "root_cause": "sensor_drift",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"sensor_drift\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_067": {
+    "session_id": "session_067",
+    "root_cause": "sensor_drift",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"sensor_drift\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0172; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_068": {
+    "session_id": "session_068",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_069": {
+    "session_id": "session_069",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_070": {
+    "session_id": "session_070",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_071": {
+    "session_id": "session_071",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_072": {
+    "session_id": "session_072",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_073": {
+    "session_id": "session_073",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_074": {
+    "session_id": "session_074",
+    "root_cause": "sensor_drift",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0171; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"sensor_drift\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0171; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_075": {
+    "session_id": "session_075",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_076": {
+    "session_id": "session_076",
+    "root_cause": "misfire_cascade",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"misfire_cascade\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0300; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_077": {
+    "session_id": "session_077",
+    "root_cause": "network_dropout",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"network_dropout\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was U0100; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_078": {
+    "session_id": "session_078",
+    "root_cause": "healthy",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"healthy\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was none; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  },
+  "session_079": {
+    "session_id": "session_079",
+    "root_cause": "cooling_failure",
+    "confidence": 0.5,
+    "reasoning": "Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.",
+    "recommended_action": "Confirm with a full diagnostic scan before proceeding.",
+    "raw_response": "{\"root_cause\": \"cooling_failure\", \"confidence\": 0.5, \"reasoning\": \"Naive lookup: first DTC code observed was P0128; mapped via a fixed code table with no trend or UDS context considered.\", \"recommended_action\": \"Confirm with a full diagnostic scan before proceeding.\"}",
+    "parse_ok": true
+  }
+}

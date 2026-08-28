@@ -1,0 +1,46 @@
+{
+  "P0300": {
+    "title": "Random/Multiple Cylinder Misfire Detected",
+    "typical_causes": ["worn spark plugs or coil packs", "vacuum leak", "low fuel pressure", "carbon buildup on intake valves"]
+  },
+  "P0301": {
+    "title": "Cylinder 1 Misfire Detected",
+    "typical_causes": ["cylinder-1-specific ignition coil or injector fault", "compression loss on cylinder 1"]
+  },
+  "P0302": {
+    "title": "Cylinder 2 Misfire Detected",
+    "typical_causes": ["cylinder-2-specific ignition coil or injector fault", "compression loss on cylinder 2"]
+  },
+  "P0303": {
+    "title": "Cylinder 3 Misfire Detected",
+    "typical_causes": ["cylinder-3-specific ignition coil or injector fault", "compression loss on cylinder 3"]
+  },
+  "P0304": {
+    "title": "Cylinder 4 Misfire Detected",
+    "typical_causes": ["cylinder-4-specific ignition coil or injector fault", "compression loss on cylinder 4"]
+  },
+  "P0128": {
+    "title": "Coolant Thermostat (Coolant Temp Below Regulating Temperature)",
+    "typical_causes": ["thermostat stuck open", "coolant temperature sensor drift", "low coolant level"]
+  },
+  "P0217": {
+    "title": "Engine Coolant Over Temperature Condition",
+    "typical_causes": ["cooling fan failure", "water pump failure", "coolant leak", "thermostat stuck closed"]
+  },
+  "P0171": {
+    "title": "System Too Lean (Bank 1)",
+    "typical_causes": ["vacuum leak", "failing MAF sensor", "weak fuel pump", "clogged fuel injector"]
+  },
+  "P0172": {
+    "title": "System Too Rich (Bank 1)",
+    "typical_causes": ["leaking fuel injector", "failing MAF or O2 sensor", "stuck-open fuel pressure regulator"]
+  },
+  "U0100": {
+    "title": "Lost Communication With ECM/PCM",
+    "typical_causes": ["CAN bus wiring fault", "ECM power/ground fault", "intermittent connector corrosion", "ECM failure"]
+  },
+  "U0101": {
+    "title": "Lost Communication With TCM",
+    "typical_causes": ["CAN bus wiring fault shared with ECM", "TCM power/ground fault", "gateway module fault"]
+  }
+}
